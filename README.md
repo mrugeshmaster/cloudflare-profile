@@ -1,15 +1,6 @@
-# 👷 `worker-template` Hello World
+# Cloudflare assignment : Link-Tree Style Website
 
-A template for kick starting a Cloudflare worker project.
+* Deployed a `JSON API` using `FetchEvent Listeners` and response handlers
+* Fetched a Static HTML page from [here](https://static-links-page.signalnerve.workers.dev) and applied a `HTML Rewriter` to modify the `DOM` elements.
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
-
-#### Wrangler
-
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
-
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+URL : [https://profile.mrugesh-master.workers.dev/](https://profile.mrugesh-master.workers.dev/)
