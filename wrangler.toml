@@ -1,0 +1,6 @@
+name = "profile"
+type = "javascript"
+account_id = "4bc0903644248509375a19b88f62f4c9"
+workers_dev = true
+route = ""
+zone_id = ""
